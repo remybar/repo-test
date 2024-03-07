@@ -4,7 +4,7 @@ import styles from "./page.module.css";
 export default function Home() {
   return (
     <main className={styles.main}>
-      <h1>first version 5</h1>
+      <h1>first version 6</h1>
     </main>
   );
 }
